@@ -1,4 +1,4 @@
-# Software Design Patterns Assignments
+# Software Design Patterns
 
 Welcome to the Software Design Patterns Assignments repository at the Egyptian Chinese University, Faculty of Engineering, Software Department. This repository is a dedicated space for organizing, accessing, and collaborating on assignments related to software design patterns.
 
