@@ -1,0 +1,4 @@
+/Users/abdelrhmanhatem/Downloads/Grad Year/Software Design Pattern/Tasks/obj/Debug/net7.0/Tasks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdelrhmanhatem/Downloads/Grad Year/Software Design Pattern/Tasks/obj/Debug/net7.0/Tasks.AssemblyInfoInputs.cache
+/Users/abdelrhmanhatem/Downloads/Grad Year/Software Design Pattern/Tasks/obj/Debug/net7.0/Tasks.AssemblyInfo.cs
+/Users/abdelrhmanhatem/Downloads/Grad Year/Software Design Pattern/Tasks/obj/Debug/net7.0/Tasks.csproj.CoreCompileInputs.cache

@@ -17,6 +17,7 @@ In the world of software engineering, design patterns are essential tools for cr
 
 Find a list of assignments covering a wide range of software design patterns. Each assignment is organized within its own folder for easy access. Click on the assignment name to access the assignment details and code samples:
 
+- [Task2](/assignments/Task2)
 - [Assignment 1: Singleton Pattern](/assignments/assignment1)
 - [Assignment 2: Abstract Factory Method Pattern](/assignments/assignment2)
 - [Assignment 3: Factory Pattern](/assignments/assignment3)

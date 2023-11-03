@@ -1,0 +1,14 @@
+/Users/abdelrhmanhatem/Downloads/Grad Year/Software Design Pattern/Tasks/Assignment 2/bin/Debug/net7.0/Assignment 2
+/Users/abdelrhmanhatem/Downloads/Grad Year/Software Design Pattern/Tasks/Assignment 2/bin/Debug/net7.0/Assignment 2.deps.json
+/Users/abdelrhmanhatem/Downloads/Grad Year/Software Design Pattern/Tasks/Assignment 2/bin/Debug/net7.0/Assignment 2.runtimeconfig.json
+/Users/abdelrhmanhatem/Downloads/Grad Year/Software Design Pattern/Tasks/Assignment 2/bin/Debug/net7.0/Assignment 2.dll
+/Users/abdelrhmanhatem/Downloads/Grad Year/Software Design Pattern/Tasks/Assignment 2/bin/Debug/net7.0/Assignment 2.pdb
+/Users/abdelrhmanhatem/Downloads/Grad Year/Software Design Pattern/Tasks/Assignment 2/obj/Debug/net7.0/Assignment 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdelrhmanhatem/Downloads/Grad Year/Software Design Pattern/Tasks/Assignment 2/obj/Debug/net7.0/Assignment 2.AssemblyInfoInputs.cache
+/Users/abdelrhmanhatem/Downloads/Grad Year/Software Design Pattern/Tasks/Assignment 2/obj/Debug/net7.0/Assignment 2.AssemblyInfo.cs
+/Users/abdelrhmanhatem/Downloads/Grad Year/Software Design Pattern/Tasks/Assignment 2/obj/Debug/net7.0/Assignment 2.csproj.CoreCompileInputs.cache
+/Users/abdelrhmanhatem/Downloads/Grad Year/Software Design Pattern/Tasks/Assignment 2/obj/Debug/net7.0/Assignment 2.dll
+/Users/abdelrhmanhatem/Downloads/Grad Year/Software Design Pattern/Tasks/Assignment 2/obj/Debug/net7.0/refint/Assignment 2.dll
+/Users/abdelrhmanhatem/Downloads/Grad Year/Software Design Pattern/Tasks/Assignment 2/obj/Debug/net7.0/Assignment 2.pdb
+/Users/abdelrhmanhatem/Downloads/Grad Year/Software Design Pattern/Tasks/Assignment 2/obj/Debug/net7.0/Assignment 2.genruntimeconfig.cache
+/Users/abdelrhmanhatem/Downloads/Grad Year/Software Design Pattern/Tasks/Assignment 2/obj/Debug/net7.0/ref/Assignment 2.dll
